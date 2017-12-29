@@ -276,15 +276,3 @@ compile 'com.ibm.mobilefirstplatform.clientsdk.android:analytics:1.+'
             }
         });
 ```
-
-### Chat with your own WatBot 
-
-If you have followed all the above instructions, you should be happily chatting with your Wat(son)Bot. 
-
-** Remember your bot will be talking to your Conversation Service (Intents, Entities and Dialog).**
-
-### Don't stop here!!! Keep coding and using Bluemix
-
-## License
-
-See [License.txt](https://github.com/IBM-Bluemix/chatbot-watson-android/blob/master/License.txt) for license information.
